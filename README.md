@@ -4,6 +4,8 @@ Recently I had a technical interview on SQL performed over Webex, with tasks and
 
 This solution uses Google Colaboratory, where a SQLite database is created at runtime using Python Pandas, and the SQL queries are written into templated solution cells.
 
+<a href="https://colab.research.google.com/github/liquidcarbon/sql_interview/blob/master/SQL_Interview.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Sample task
 We have a table `events` that looks like this:
 ```
