@@ -1,6 +1,6 @@
 # Interactive SQL interview on Google Colaboratory
 
-Recently I had a technical interview on SQL performed over Webex, with tasks and solutions typed into a shared Google Doc.  This is quite standard and works fine.  But wouldn't it be nice if all participants of the process could interact with a real database, more closely approximating real scenartio?
+Recently I had a technical interview on SQL performed over Webex, with tasks and solutions typed into a shared Google Doc.  This is quite standard and works fine.  But wouldn't it be nice if all participants of the process could interact with a real database, more closely approximating real work?
 
 This solution uses Google Colaboratory, where a SQLite database is created at runtime using Python Pandas, and the SQL queries are written into templated solution cells.
 
